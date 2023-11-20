@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/joshmadakor/"> Aspiring Data Scientist</a>, <a href="https://github.com/EOsamau/"> Python & R Programmer, SQL Developer</a> 
+<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-osamau/"> Aspiring Data Scientist</a> , <a href="https://github.com/EOsamau/"> Python & R Programmer, SQL Developer</a> 
 
 <h2> :chart_with_upwards_trend: Data Projects:</h2>
 
@@ -8,14 +8,9 @@
 - <b>Statistical Modeling</b>
   - [Modeling Insurance Claims Distribution](https://github.com/joshmadakor1/Algorithms-Practice)
     
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-
 
 <h2>:bookmark_tabs: Certifications:</h2>
 - <b>Microsoft Azure Fundamentals</b>
-
-
 
 
 <!--
