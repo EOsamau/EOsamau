@@ -3,7 +3,7 @@
 <h2> :chart_with_upwards_trend: Data Projects:</h2>
 
 - <b>Portfolio Optimization and Forecasting</b>
-  - [Genetic Algorithm Portfolio Optimization and Time Series Forecasting](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Genetic Algorithm Portfolio Optimization and Time Series Forecasting](https://github.com/EOsamau/Portfolio-Optimization)
 
 - <b>Statistical Modeling</b>
   - [Modeling Insurance Claims Distribution](https://github.com/joshmadakor1/Algorithms-Practice)
