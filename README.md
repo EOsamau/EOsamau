@@ -10,7 +10,9 @@
     
 
 <h2>:bookmark_tabs: Certifications:</h2>
-- <b>Microsoft Azure Fundamentals</b>
+- <b>Microsoft Azure Data Fundamentals</b>
+- <b>Datacamp Intermediate Python</b>
+- <b>Datacamp Intermediate SQL</b>
 
 
 <!--
