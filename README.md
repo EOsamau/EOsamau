@@ -5,13 +5,17 @@
 - <b>Portfolio Optimization and Forecasting</b>
   - [Genetic Algorithm Portfolio Optimization and Time Series Forecasting](https://github.com/EOsamau/Portfolio-Optimization)
 
+<!--
 - <b>Statistical Modeling</b>
   - [Modeling Insurance Claims Distribution](https://github.com/joshmadakor1/Algorithms-Practice)
-    
+    -->
 
 <h2>:bookmark_tabs: Certifications:</h2>
+
 - <b>Microsoft Azure Data Fundamentals</b>
+
 - <b>Datacamp Intermediate Python</b>
+
 - <b>Datacamp Intermediate SQL</b>
 
 
