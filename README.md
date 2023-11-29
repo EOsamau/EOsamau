@@ -3,7 +3,7 @@
 <h2> :chart_with_upwards_trend: Data Projects:</h2>
 
 - <b>Portfolio Optimization</b>
-  - [Impplementing Genetic Algorithm for Portfolio Optimization]([https://github.com/EOsamau/Portfolio-Optimization](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf))
+  - [Deploying Genetic Algorithm for Portfolio Optimization](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
 
 - <b>Machine Learning</b>
   - [Predicting Customer Churn](https://github.com/EOsamau/Customer-Churn-Prediction/blob/main/CUSTOMER%20CHURN%20PREDICTION%20(1).ipynb)
