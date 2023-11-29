@@ -5,6 +5,9 @@
 - <b>Portfolio Optimization and Forecasting</b>
   - [Genetic Algorithm Portfolio Optimization and Time Series Forecasting](https://github.com/EOsamau/Portfolio-Optimization)
 
+- <b>Machine Learning</b>
+  - [Predicting Customer Churn](https://github.com/EOsamau/Portfolio-Optimization)
+
 <!--
 - <b>Statistical Modeling</b>
   - [Modeling Insurance Claims Distribution](https://github.com/joshmadakor1/Algorithms-Practice)
