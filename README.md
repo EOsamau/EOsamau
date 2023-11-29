@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-osamau/"> Aspiring Data Scientist</a> , <a href="https://github.com/EOsamau/"> Python & R Programmer, SQL Developer</a> 
+<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-osamau/"> Aspiring Data Scientist</a> , <a href="https://github.com/EOsamau/"> Python & R Programmer </a> 
 
 <h2> :chart_with_upwards_trend: Data Projects:</h2>
 
@@ -6,7 +6,7 @@
   - [Genetic Algorithm Portfolio Optimization and Time Series Forecasting](https://github.com/EOsamau/Portfolio-Optimization)
 
 - <b>Machine Learning</b>
-  - [Predicting Customer Churn](https://github.com/EOsamau/Portfolio-Optimization)
+  - [Predicting Customer Churn](https://github.com/EOsamau/Customer-Churn-Prediction/blob/main/CUSTOMER%20CHURN%20PREDICTION%20(1).ipynb)
 
 <!--
 - <b>Statistical Modeling</b>
