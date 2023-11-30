@@ -6,9 +6,9 @@
   - [Deploying Genetic Algorithm for Investment Portfolio Optimization](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
 
 - <b>Customer Data Modeling and Analysis</b>
-  - [Predicting Customer Churn using Machine Learning](https://github.com/EOsamau/Customer-Churn-Prediction/blob/main/CUSTOMER%20CHURN%20PREDICTION%20(1).ipynb)
+  - [Predicting Customer Churn with Machine Learning](https://github.com/EOsamau/Customer-Churn-Prediction/blob/main/CUSTOMER%20CHURN%20PREDICTION%20(1).ipynb)
  
-  - [Customer Segmentation using RFM Methodology](https://github.com/EOsamau/Customer-Churn-Prediction/blob/main/CUSTOMER%20CHURN%20PREDICTION%20(1).ipynb)
+  - [Customer Segmentation using RFM Methodology](https://github.com/EOsamau/Customer-Segmentation-RFM/blob/main/RFM%20Customer%20Segmentation.ipynb)
 
 <!--
 - <b>Statistical Modeling</b>
