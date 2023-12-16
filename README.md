@@ -10,9 +10,9 @@
  
   - [Customer Segmentation using RFM Methodology](https://github.com/EOsamau/Customer-Segmentation-RFM/blob/main/RFM%20Customer%20Segmentation.ipynb)
 
-<!--
-- <b>Statistical Modeling</b>
-  - [Modeling Insurance Claims Distribution](https://github.com/joshmadakor1/Algorithms-Practice)
+
+- <b>Data Visualization</b>
+  - [Air Quality in United States 2022]()
     -->
 
 <h2>:bookmark_tabs: Certifications:</h2>
