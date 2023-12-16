@@ -12,8 +12,8 @@
 
 
 - <b>Data Visualization</b>
-  - [Air Quality in United States 2022]()
-    -->
+  - [Air Quality in United States 2022](https://github.com/EOsamau/2022-Air-Quality-United-States/blob/main/Air%20Quality%20in%20the%20United%20States%202022.pdf)
+  
 
 <h2>:bookmark_tabs: Certifications:</h2>
 
