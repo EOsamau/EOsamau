@@ -1,5 +1,5 @@
 <h1> Hello, Emmanuel here!  <br> 
-  End-to-End Data Professional: Data Engineering 	&rarr; Data Science. 
+  <em>End-to-End Data Professional: Data Engineering 	&rarr; Data Science. </em>
 
 <h2> :wrench: Data Engineering:</h2>
 
