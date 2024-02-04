@@ -1,6 +1,10 @@
 <h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-osamau/"> Aspiring Data Scientist</a> , <a href="https://github.com/EOsamau/"> Python & R Programmer </a> 
+<h2> :chart_with_upwards_trend: Data Engineering:</h2>
 
-<h2> :chart_with_upwards_trend: Data Projects:</h2>
+  
+<h2> :chart_with_upwards_trend: Data Science:</h2>
+- <b>Data Management in Python and using DF SQL</b>
+  - [Most Frequent Places Visited with Py Threading](https://github.com/EOsamau/Portfolio-Optimization/blob/main/Genetic%20Algorithm%20Portfolio%20Optimization%20and%20Stock%20Price%20Prediction_Emmanuel_Osamau.pdf)
 
 - <b>Portfolio Optimization</b>
   - [Deploying Genetic Algorithm for Investment Portfolio Optimization & Stock Prediction](https://github.com/EOsamau/Portfolio-Optimization/blob/main/Genetic%20Algorithm%20Portfolio%20Optimization%20and%20Stock%20Price%20Prediction_Emmanuel_Osamau.pdf)
