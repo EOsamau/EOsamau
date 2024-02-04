@@ -1,8 +1,9 @@
 <h1> Hello, Emmanuel here!  <br> 
   End-to-End Data Professional [Data Engineering 	&rarr; Data Science] 
+
 <h2> :wrench: Data Engineering:</h2>
 - <b>Data Management in Python and using DF SQL</b>
-  -Most Frequent Places Visited with Py Threading
+  - [Most Frequent Places Visited with Py Threading]
   
 <h2> :chart_with_upwards_trend: Data Science:</h2>
 - <b>Portfolio Optimization</b>
