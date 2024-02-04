@@ -1,4 +1,4 @@
-<h1>Hi, I'm Emmanuel! <br/> <a href="https://www.linkedin.com/in/emmanuel-osamau/"> Aspiring End-to-End Data Professional</a> , <a href="https://github.com/EOsamau/"> Data Engineering 	&rarr; Data Science </a> 
+<h1>Hi, I'm Emmanuel! End-to-End Data Professional [Data Engineering 	&rarr; Data Science] 
 <h2> :wrench: Data Engineering:</h2>
 - <b>Data Management in Python and using DF SQL</b>
   - [Most Frequent Places Visited with Py Threading](https://github.com/EOsamau/PortfolioOptimization/blob/main/Genetic%20Algorithm%20Portfolio%20Optimization%20and%20Stock%20Price%20Prediction_Emmanuel_Osamau.pdf)
