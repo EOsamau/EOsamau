@@ -1,13 +1,13 @@
 <h1> Hello, Emmanuel here!  <br> 
-  End-to-End Data Professional [Data Engineering 	&rarr; Data Science] 
+  End-to-End Data Professional: Data Engineering 	&rarr; Data Science. 
 
 <h2> :wrench: Data Engineering:</h2>
 - <b>Data Management in Python and using DF SQL</b>
-  - [Most Frequent Places Visited with Py Threading]
+  - [Most Frequent Places Visited with Py Threading](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
   
 <h2> :chart_with_upwards_trend: Data Science:</h2>
 - <b>Portfolio Optimization</b>
-  - [Deploying Genetic Algorithm for Investment Portfolio Optimization & Stock Prediction](https://github.com/EOsamau/Portfolio-Optimization/blob/main/Genetic%20Algorithm%20Portfolio%20Optimization%20and%20Stock%20Price%20Prediction_Emmanuel_Osamau.pdf)
+  - [Deploying Genetic Algorithm for Investment Portfolio Optimization & Stock Prediction](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
 
 - <b>Customer Data Modeling and Analysis</b>
   - [Predicting Customer Churn with Machine Learning](https://github.com/EOsamau/Customer-Churn-Prediction/blob/main/CUSTOMER%20CHURN%20PREDICTION%20(1).ipynb)
