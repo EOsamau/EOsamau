@@ -2,10 +2,12 @@
   End-to-End Data Professional: Data Engineering 	&rarr; Data Science. 
 
 <h2> :wrench: Data Engineering:</h2>
+
 - <b>Data Management in Python and using DF SQL</b>
   - [Most Frequent Places Visited with Py Threading](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
   
 <h2> :chart_with_upwards_trend: Data Science:</h2>
+
 - <b>Portfolio Optimization</b>
   - [Deploying Genetic Algorithm for Investment Portfolio Optimization & Stock Prediction](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
 
