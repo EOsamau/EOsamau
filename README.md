@@ -1,5 +1,6 @@
-Hello, I'm Emmanuel! 👋
-Welcome to my GitHub! I'm a passionate data scientist dedicated to uncovering insights and crafting data-driven solutions. With a solid foundation in statistical analysis, machine learning, and data visualization, I thrive on transforming complex data into actionable intelligence.
+<h1> Hello, I'm Emmanuel! 👋 <br>
+  
+Welcome to my GitHub! I'm a passionate data scientist dedicated to uncovering insights and crafting data-driven solutions. With a solid foundation in mathematics and statistics, I thrive on transforming complex data into actionable intelligence.
   
 <h2> :chart_with_upwards_trend: Projects:</h2>
 
