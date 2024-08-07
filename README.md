@@ -1,25 +1,14 @@
 <h1> Hello, Emmanuel here!  <br> 
   
 <h2> :chart_with_upwards_trend: Data Science Projects:</h2>
-
 - <b>Portfolio Optimization</b>  - [Deploying Genetic Algorithm for Investment Portfolio Optimization](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
-
-- <b>Customer Data Modeling and Analysis</b>
-  - [Predicting Customer Churn with Machine Learning](https://github.com/EOsamau/Customer-Churn-Prediction/blob/main/CUSTOMER%20CHURN%20PREDICTION%20(1).ipynb)
- 
-  - [Customer Segmentation using RFM Methodology](https://github.com/EOsamau/Customer-Segmentation-RFM/blob/main/RFM%20Customer%20Segmentation.ipynb)
-
-
-- <b>Data Visualization</b>
-  - [Air Quality in United States 2022](https://github.com/EOsamau/2022-Air-Quality-United-States/blob/main/Air%20Quality%20in%20the%20United%20States%202022.pdf)
+- <b>Customer Analytics</b>  - [Customer Segmentation using RFM Methodology](https://github.com/EOsamau/Customer-Segmentation-RFM/blob/main/RFM%20Customer%20Segmentation.ipynb)
+- <b>Data Visualization</b> - [Air Quality in United States 2022](https://github.com/EOsamau/2022-Air-Quality-United-States/blob/main/Air%20Quality%20in%20the%20United%20States%202022.pdf)
   
 
 <h2>:bookmark_tabs: Certifications:</h2>
-
 - <b>Microsoft Certified: Azure Data Fundamentals</b>
-
 - <b>Datacamp:  Python</b>
-
 - <b>Datacamp:  SQL</b>
 
 
