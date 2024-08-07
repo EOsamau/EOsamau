@@ -32,4 +32,5 @@
 
 [instagram]: https://www.instagram.com/etkojo/
 [linkedin]: https://www.linkedin.com/in/emmanuel-osamau/
+[Digital CV]: https://read.cv/eo
 
