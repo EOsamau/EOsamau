@@ -1,4 +1,4 @@
-<h1> Hello, I'm Emmanuel! 👋 <br>
+<h1> Hello, I'm Emmanuel! 👋 </h1>
   
 Welcome to my GitHub! I'm a passionate data scientist dedicated to uncovering insights and crafting data-driven solutions. With a solid foundation in mathematics and statistics, I thrive on transforming complex data into actionable intelligence.
   
