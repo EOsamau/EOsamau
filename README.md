@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm a passionate data scientist dedicated to uncovering in
 - <b>Data Visualization</b> - [Air Quality in United States 2022](https://github.com/EOsamau/2022-Air-Quality-United-States/blob/main/Air%20Quality%20in%20the%20United%20States%202022.pdf)
   
 
-<h2>:bookmark_tabs: Certifications:</h2>
+### :bookmark_tabs: Certifications:
 
 - <b>Microsoft Certified: Azure Data Fundamentals</b>
 - <b>Datacamp:  Python</b>
@@ -26,7 +26,7 @@ Welcome to my GitHub! I'm a passionate data scientist dedicated to uncovering in
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 -->
 
-<h2> :incoming_envelope: Connect with me:</h2>
+### :incoming_envelope: Connect with me:
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
