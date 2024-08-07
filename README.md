@@ -2,7 +2,7 @@
   
 Welcome to my GitHub! I'm a passionate data scientist dedicated to uncovering insights and crafting data-driven solutions. With a solid foundation in mathematics and statistics, I thrive on transforming complex data into actionable intelligence.
   
-<h2> :chart_with_upwards_trend: Projects:</h2>
+ ### :chart_with_upwards_trend: Projects:
 
 - <b>Portfolio Optimization</b>  - [Deploying Genetic Algorithm for Investment Portfolio Optimization](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
 - <b>Customer Analytics</b>  - [Customer Segmentation using RFM Methodology](https://github.com/EOsamau/Customer-Segmentation-RFM/blob/main/RFM%20Customer%20Segmentation.ipynb)
