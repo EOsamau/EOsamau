@@ -1,10 +1,4 @@
 <h1> Hello, Emmanuel here!  <br> 
-  <em>End-to-End Data Professional: Data Engineering 	&rarr; Data Science. </em>
-
-<h2> :wrench: Data Engineering:</h2>
-
-- <b>Data Management in Python and using DF SQL</b>
-  - [Most Frequent Places Visited with Py Threading](https://github.com/EOsamau/Data-Engineering/blob/main/DE_Assignment_1%20(1).ipynb)
   
 <h2> :chart_with_upwards_trend: Data Science:</h2>
 
