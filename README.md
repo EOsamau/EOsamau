@@ -1,6 +1,6 @@
 <h1> Hello, Emmanuel here!  <br> 
   
-<h2> :chart_with_upwards_trend: Data Science:</h2>
+<h2> :chart_with_upwards_trend: Data Science Projects:</h2>
 
 - <b>Portfolio Optimization</b>
   - [Deploying Genetic Algorithm for Investment Portfolio Optimization & Stock Prediction](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
