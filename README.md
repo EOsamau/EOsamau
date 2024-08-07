@@ -28,9 +28,10 @@
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="JoshMadakor | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Resume]
 
 
 [instagram]: https://www.instagram.com/etkojo/
 [linkedin]: https://www.linkedin.com/in/emmanuel-osamau/
-[Digital CV]: https://read.cv/eo
+[Resume]: https://read.cv/eo
 
