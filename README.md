@@ -30,10 +30,10 @@ Welcome to my GitHub! I'm a passionate data scientist dedicated to uncovering in
 
 [<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="JoshMadakor | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Resume]
+[<img align="left" alt="JoshMadakor | Resume" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buzzfeed.svg" />][Digital Resume]
 
 
 [instagram]: https://www.instagram.com/etkojo/
 [linkedin]: https://www.linkedin.com/in/emmanuel-osamau/
-[Resume]: https://read.cv/eo
+[Digital Resume]: https://read.cv/eo
 
