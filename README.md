@@ -1,6 +1,6 @@
 ## Hello, I'm Emmanuel! 👋 
   
-Welcome to my GitHub! I love getting meaning from life, things and for my career, DATA!
+Welcome to my GitHub! I love to derive meaning from life, things and for my career, DATA!
   
  ### :chart_with_upwards_trend: Projects:
 
