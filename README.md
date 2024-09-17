@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a data scientist dedicated to uncovering insights and 
  ### :chart_with_upwards_trend: Projects:
 
 - <b>Portfolio Optimization</b>  - [Deploying Genetic Algorithm for Investment Portfolio Optimization](https://github.com/EOsamau/Portfolio-Optimization/blob/main/OptimizationFile.pdf)
-- <b>Customer Analytics</b>  - [Customer Segmentation using RFM Methodology](https://github.com/EOsamau/Customer-Segmentation-RFM/blob/main/RFM%20Customer%20Segmentation.ipynb)
+- <b>Customer Analytics</b>  - [Customer Segmentation using Clustering](https://github.com/EOsamau/DS-Projects/blob/main/Customer%20Segmentation/customer_segmentation.ipynb)
 - <b>Data Visualization</b> - [Air Quality in United States 2022](https://github.com/EOsamau/2022-Air-Quality-United-States/blob/main/Air%20Quality%20in%20the%20United%20States%202022.pdf)
   
 
