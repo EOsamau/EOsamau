@@ -1,6 +1,6 @@
 ## Hello, I'm Emmanuel! 👋 
   
-Welcome to my GitHub! I'm a data scientist dedicated to uncovering insights and crafting data-driven solutions. With a solid foundation in mathematics and statistics, I thrive on transforming complex data into actionable intelligence.
+Welcome to my GitHub! I love getting meaning from life, things and for my career, DATA!
   
  ### :chart_with_upwards_trend: Projects:
 
