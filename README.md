@@ -1,5 +1,9 @@
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-teDpAIho_nzNShRswkfrQ.gif)](https://github.com/EOsamau)
+
 <h1 align="center">Hello! 👋 My name is Emmanuel.</h1>
 <h3 align="center">Welcome to my GitHub! I love to derive meaning from life, things and for my career, DATA!</h3>
+
+<img align="right" alt="Coding" width="400" src="https://indusuni.ac.in/uploads/blogs/iite/Understanding,P20the,P20Hype,P20Around,P20Machine,P20Learning.gif.pagespeed.ce.oi7Wy3vTsY.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eosamau&label=Profile%20views&color=0e75b6&style=flat" alt="eosamau" /> </p>
 
