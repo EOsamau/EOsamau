@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-teDpAIho_nzNShRswkfrQ.gif)](https://github.com/EOsamau)
+[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://github.com/EOsamau)
 
 <h1 align="center">Hello! 👋 My name is Emmanuel.</h1>
 <h3 align="center">Welcome to my GitHub! I love to derive meaning from life, things and for my career, DATA!</h3>
