@@ -1,26 +1,17 @@
-<div align="center" style="position: relative;">
-    <a href="https://github.com/EOsamau">
-        <img src="https://drive.google.com/uc?export=view&id=1V22sF5P1og-EKev02EDBDxrtaaTOsudf" alt="MasterHead" style="width: 100%; max-width: 100%; height: auto;">
-        <h1 style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 48px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">Emmanuel</h1>
-    </a>
+<div align="center">
+    <img src="https://github.com/EOsamau/Adhoc/blob/main/GithubHeader-ezgif.com-crop.gif" alt="MasterHead">
 </div>
+
 <h3 align="center">Welcome to my GitHub! I love to derive meaning from life, things and for my career, DATA!</h3>
 
 
-<h1 align="center">Hello! 👋 My name is Emmanuel.</h1>
-<h3 align="center">Welcome to my GitHub! I love to derive meaning from life, things and for my career, DATA!</h3>
 
-<img align="right" alt="Coding" width="400" src="https://indusuni.ac.in/uploads/blogs/iite/Understanding,P20the,P20Hype,P20Around,P20Machine,P20Learning.gif.pagespeed.ce.oi7Wy3vTsY.gif">
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=eosamau&label=Profile%20views&color=0e75b6&style=flat" alt="eosamau" /> </p>
 
 - 🔭 I’m currently working on **a Natural Language Processing and Neural Networks Classification project to predict the ratings based on a drug review. I am going to further expand that to creating a drug recommendation system after some topic modeling.**
 
 - 🌱 I’m currently advancing my knowledge on **Deep Learning and Coding Statistical Methods from Scratch**
 
-- 📫 How to reach me **eosamau@unomaha.edu**
-
-- 📄 Know about my experiences in my resume [https://drive.google.com/file/d/1_t-siaUdtJEwTB3IBrznHo614wrdmVNG/view?usp=sharing](https://drive.google.com/file/d/1_t-siaUdtJEwTB3IBrznHo614wrdmVNG/view?usp=sharing)
+- 📄 Know about my experiences in my resume [https://github.com/EOsamau/Adhoc/blob/main/Resume_Emmanuel_Osamau.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
