@@ -1,4 +1,11 @@
-[![MasterHead](https://static.wixstatic.com/media/6c3893_60b02f5779ab4a239a715f41ba6a007e~mv2_d_5000_1447_s_2.gif)](https://github.com/EOsamau)
+<div align="center" style="position: relative;">
+    <a href="https://github.com/EOsamau">
+        <img src="https://drive.google.com/uc?export=view&id=1V22sF5P1og-EKev02EDBDxrtaaTOsudf" alt="MasterHead" style="width: 100%; max-width: 100%; height: auto;">
+        <h1 style="position: absolute; top: 20%; left: 50%; transform: translate(-50%, -50%); color: white; font-size: 48px; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.7);">Emmanuel</h1>
+    </a>
+</div>
+<h3 align="center">Welcome to my GitHub! I love to derive meaning from life, things and for my career, DATA!</h3>
+
 
 <h1 align="center">Hello! 👋 My name is Emmanuel.</h1>
 <h3 align="center">Welcome to my GitHub! I love to derive meaning from life, things and for my career, DATA!</h3>
