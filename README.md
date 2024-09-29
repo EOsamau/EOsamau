@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on **a Natural Language Processing and Neural Networks Classification project to predict the ratings based on a drug review. I am going to further expand that to creating a drug recommendation system after some topic modeling.**
+- 🔭 I’m currently working on **a Natural Language Processing and Neural Networks Classification project to predict the ratings based on a drug review.** I am going to further expand that to creating a drug recommendation system after some topic modeling.
 
 - 🌱 I’m currently advancing my knowledge on **Deep Learning and Coding Statistical Methods from Scratch**
 
