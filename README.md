@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently advancing my knowledge on **Deep Learning and Coding Statistical Methods from Scratch**
 
-- 📄 Know about my experiences in my resume [https://github.com/EOsamau/Adhoc/blob/main/Resume_Emmanuel_Osamau.pdf)
+- 📄 Know about my experiences in my [resume](https://github.com/EOsamau/Adhoc/blob/main/Resume_Emmanuel_Osamau.pdf)
 
 
 <h3 align="left">Languages and Tools:</h3>
