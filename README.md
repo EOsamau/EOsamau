@@ -1,5 +1,3 @@
-# Emmanuel Osamau
-
 ## About Me
 
 I am an aspiring data scientist and machine learning specialist with a focus on natural language processing and deep learning. My expertise lies in developing innovative solutions using advanced analytics and Large Language Models. I love to explore the meaning of life, things and for my career, DATA!
