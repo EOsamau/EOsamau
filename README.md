@@ -2,7 +2,7 @@
 
 ## About Me
 
-I am a data scientist and machine learning engineer with a focus on natural language processing and deep learning. My expertise lies in developing innovative solutions using advanced analytics and AI technologies.
+I am an aspiring data scientist and machine learning specialist with a focus on natural language processing and deep learning. My expertise lies in developing innovative solutions using advanced analytics and Large Language Models. I love to explore the meaning of life, things and for my career, DATA!
 
 ## Current Projects
 
@@ -17,13 +17,12 @@ I am a data scientist and machine learning engineer with a focus on natural lang
 
 ## Technical Skills
 
-- Programming Languages: Python
+- Programming Languages: Python, R, SQL
 - Machine Learning: TensorFlow, PyTorch, Scikit-learn
-- Data Analysis: Pandas, NumPy, Seaborn
+- Data Analysis: Pandas, NumPy, Seaborn, TidyVerse
 - Databases: PostgreSQL, MySQL, Oracle
 - Cloud Platforms: AWS, Azure
 - Tools: Docker, Git, Postman
-- Web Development: Flask
 
 ## Professional Experience
 
