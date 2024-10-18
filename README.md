@@ -6,6 +6,7 @@ I am an aspiring data scientist and machine learning specialist with a focus on 
 
 - Natural Language Processing and Neural Networks Classification project for predicting drug ratings based on reviews
 - Developing a drug recommendation system utilizing topic modeling techniques
+- Check out my [projects](https://github.com/EOsamau?tab=repositories)
 
 ## Areas of Focus
 
