@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://github.com/EOsamau/Adhoc/blob/main/GithubHeader-ezgif.com-crop.gif" alt="MasterHead">
-</div>
-
 # Emmanuel Osamau
 
 ## About Me
@@ -35,9 +31,7 @@ For a detailed overview of my professional experience and qualifications, please
 
 ## Contact Information
 
-For professional inquiries or collaboration opportunities, please connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-osamau-b593b275/).
-
-- 📄 Know about my experiences in my [resume](https://github.com/EOsamau/Adhoc/blob/main/Resume_Emmanuel_Osamau.pdf)
+For professional inquiries or collaboration opportunities, please connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-osamau-b593b275/) or email me at eosamau@unomaha.edu
 
 
 
