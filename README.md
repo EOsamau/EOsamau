@@ -2,13 +2,42 @@
     <img src="https://github.com/EOsamau/Adhoc/blob/main/GithubHeader-ezgif.com-crop.gif" alt="MasterHead">
 </div>
 
-- 🔭 I’m currently working on **a Natural Language Processing and Neural Networks Classification project to predict the ratings based on a drug review.** I am going to further expand that to creating a drug recommendation system after some topic modeling.
+# Emmanuel Osamau
 
-- 🌱 I’m currently advancing my knowledge on **Deep Learning and Coding Statistical Methods from Scratch**
+## About Me
+
+I am a data scientist and machine learning engineer with a focus on natural language processing and deep learning. My expertise lies in developing innovative solutions using advanced analytics and AI technologies.
+
+## Current Projects
+
+- Natural Language Processing and Neural Networks Classification project for predicting drug ratings based on reviews
+- Developing a drug recommendation system utilizing topic modeling techniques
+
+## Areas of Focus
+
+- Advancing knowledge in Deep Learning
+- Implementing Statistical Methods from scratch
+- Exploring cutting-edge machine learning algorithms and their applications
+
+## Technical Skills
+
+- Programming Languages: Python
+- Machine Learning: TensorFlow, PyTorch, Scikit-learn
+- Data Analysis: Pandas, NumPy, Seaborn
+- Databases: PostgreSQL, MySQL, Oracle
+- Cloud Platforms: AWS, Azure
+- Tools: Docker, Git, Postman
+- Web Development: Flask
+
+## Professional Experience
+
+For a detailed overview of my professional experience and qualifications, please refer to my [resume](https://github.com/EOsamau/Adhoc/blob/main/Resume_Emmanuel_Osamau.pdf).
+
+## Contact Information
+
+For professional inquiries or collaboration opportunities, please connect with me on [LinkedIn](https://www.linkedin.com/in/emmanuel-osamau-b593b275/).
 
 - 📄 Know about my experiences in my [resume](https://github.com/EOsamau/Adhoc/blob/main/Resume_Emmanuel_Osamau.pdf)
 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
