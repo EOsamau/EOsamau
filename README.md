@@ -25,7 +25,7 @@ I am an aspiring data scientist and machine learning specialist with a focus on 
 
 ## Professional Experience
 
-For a detailed overview of my professional experience and qualifications, please refer to my [resume](https://github.com/EOsamau/Adhoc/blob/main/Resume_Emmanuel_Osamau.pdf).
+For a detailed overview of my professional experience and qualifications, please refer to my [resume](https://github.com/EOsamau/Personal-Repo/blob/main/Emmanuel_Osamau_Resume.pdf).
 
 ## Contact Information
 
